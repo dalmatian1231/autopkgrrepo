@@ -5,14 +5,14 @@
     <key>Description</key>
     <string>Downloads latest DetectX zip file and builds a package. The installer package includes a preinstall script that will check for an existing DetectX.app in /Applications and remove it if found.</string>
     <key>Identifier</key>
-    <string>com.github.dalmatian1231.jss.DetectX</string>
+    <string>com.github.dalmatian1231.pkg.DetectX</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
         <string>DetectX</string>
     </dict>
     <key>ParentRecipe</key>
-    <string>com.github.dalmatian1231.jss.DetectX</string>
+    <string>com.github.dalmatian1231.download.DetectX</string>
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>Process</key>
