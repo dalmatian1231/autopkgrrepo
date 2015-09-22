@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Uses parent pkg recipe to download latest clearsea and import it into the JSS.</string>
+    <string>Uses parent pkg recipe to download latest skype and import it into the JSS.</string>
     <key>Identifier</key>
-    <string>com.github.dalmatian1231.jss.ClearSeaClient</string>
+    <string>com.github.dalmatian1231.jss.skype</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>ClearSeaClient</string>
+        <string>skype</string>
         <key>CATEGORY</key>
         <string>Productivity</string>
         <key>POLICY_CATEGORY</key>
@@ -23,12 +23,12 @@
         <key>GROUP_TEMPLATE</key>
         <string>SmartGroupTemplate.xml</string>
         <key>SELF_SERVICE_DESCRIPTION</key>
-        <string>ClearSeaClient is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.</string>
+        <string>skype is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.4.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.dalmatian1231.pkg.ClearSeaClient</string>
+    <string>com.github.dalmatian1231.pkg.skype</string>
     <key>Process</key>
     <array>
         <dict>
