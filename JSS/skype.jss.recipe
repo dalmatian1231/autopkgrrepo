@@ -13,7 +13,7 @@
         <key>CATEGORY</key>
         <string>Productivity</string>
         <key>POLICY_CATEGORY</key>
-        <string>Testing</string>
+        <string>ITTesting</string>
         <key>POLICY_TEMPLATE</key>
         <string>PolicyTemplate.xml</string>
         <key>SELF_SERVICE_ICON</key>
@@ -23,7 +23,7 @@
         <key>GROUP_TEMPLATE</key>
         <string>SmartGroupTemplate.xml</string>
         <key>SELF_SERVICE_DESCRIPTION</key>
-        <string>skype is a sdfasfbrowser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.</string>
+        <string>skype ia sdfasfbrowser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.4.0</string>
