@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads latest Google Chrome disk image.</string>
+    <string>Downloads latest skype disk image.</string>
     <key>Identifier</key>
-    <string>com.github.dalmatian1231.download.ClearSeaClient</string>
+    <string>com.github.dalmatian1231.download.skype</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>ClearSeaClient</string>
+        <string>skype</string>
         <key>DOWNLOAD_URL</key>
         <string>https://sus.appannie.org/Package/Skype_7.12.657.dmg</string>
     </dict>
