@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads latest clear sea disk image and builds a package.</string>
+    <string>Downloads latest skype disk image and builds a package.</string>
     <key>Identifier</key>
-    <string>com.github.dalmatian1231.pkg.ClearSeaClient</string>
+    <string>com.github.dalmatian1231.pkg.skype</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>ClearSeaClien</string>
+        <string>skype</string>
     </dict>
     <key>ParentRecipe</key>
-    <string>com.github.dalmatian1231.download.ClearSeaClient</string>
+    <string>com.github.dalmatian1231.download.skype</string>
     <key>Process</key>
     <array>
         <dict>
