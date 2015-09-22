@@ -12,19 +12,6 @@ No idea if all Firefox builds are available in all the same localizations, so yo
 combination is offered.</string>
     <key>Identifier</key>
     <string>com.github.dalmatian1231.download.firefox-rc-en_US</string>
-    <key>Input</key>
-    <dict>
-        <key>RELEASE</key>
-        <string>latest</string>
-        <key>LOCALE</key>
-        <string>en_US</string>
-        <key>NAME</key>
-        <string>Firefox</string>
-    </dict>
-    <key>MinimumVersion</key>
-    <string>0.2.0</string>
-    <key>Process</key>
-    <array>
         <dict>
             <key>Arguments</key>
             <dict>
@@ -38,19 +25,5 @@ combination is offered.</string>
             <key>Processor</key>
             <string>MozillaURLProvider</string>
         </dict>
-        <dict>
-            <key>Arguments</key>
-            <dict>
-                <key>filename</key>
-                <string>%NAME%.dmg</string>
-            </dict>
-            <key>Processor</key>
-            <string>URLDownloader</string>
-        </dict>
-        <dict>
-            <key>Processor</key>
-            <string>EndOfCheckPhase</string>
-        </dict>
-    </array>
 </dict>
 </plist>
