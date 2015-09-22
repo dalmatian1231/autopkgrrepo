@@ -23,7 +23,7 @@
         <key>GROUP_TEMPLATE</key>
         <string>SmartGroupTemplate.xml</string>
         <key>SELF_SERVICE_DESCRIPTION</key>
-        <string>skype is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.</string>
+        <string>skype is a sdfasfbrowser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.4.0</string>
