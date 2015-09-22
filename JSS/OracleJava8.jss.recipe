@@ -31,7 +31,7 @@ Then, uploads to the JSS.</string>
         <key>GROUP_TEMPLATE</key>
         <string>OracleJava8SmartGroupTemplate.xml</string>
         <key>SELF_SERVICE_DESCRIPTION</key>
-        <string>Browser plugin to allow execution of Java applets.</string>
+        <string>Browser plugin to allow execution of Java applets'_-_'</string>
         <!--PlistReader w/o variable injection in AutoPkg requires this-->
         <key>version</key>
         <string/>
