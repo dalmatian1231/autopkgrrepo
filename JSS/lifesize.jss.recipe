@@ -28,7 +28,7 @@
     <key>MinimumVersion</key>
     <string>0.4.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.dalmatian1231.pkg.lifesize</string>
+    <string>com.github.dalmatian1231.download.lifesize</string>
     <key>Process</key>
     <array>
         <dict>
